@@ -19,4 +19,4 @@ Site de previsão do tempo em que mostra as informações de forma dinâmica, us
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
-Link Projeto: <a href="https://diegokraus.github.io/weather-forecast/">Previsão do Tempo</a>
+<a href="https://diegokraus.github.io/weather-forecast/" target="_blank">Visit: Previsão do Tempo</a>
